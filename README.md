@@ -93,9 +93,6 @@ python sarimax_var_exogenas.py
 - Avaliar o desempenho do modelo em diferentes horizontes de previsão
 
 ## 👤 Autor
-Seu Nome
+Gabriel Konno Carrozza
 - [LinkedIn](https://www.linkedin.com/in/gabrielkonno/)
 - Email: gkonnoc@gmail.com
-
-## 📜 Licença
-Este projeto está sob a licença MIT - veja o arquivo LICENSE para mais detalhes.
